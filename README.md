@@ -1,1 +1,1 @@
-# AWS ECS NGINX Webserver Behind Elastic Load Balancer - Example
+# AWS ECS NGINX Webserver - Elastic Load Balancer - Example
